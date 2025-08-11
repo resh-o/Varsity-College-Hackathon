@@ -4,15 +4,15 @@
 ## 👤 Tripod
 
 **Reshaan**  
-- 💻 Developed the full application in C#  
+- 💻 Developed the full application 
 - ✅ Committed to GitHub
 
 **Cameron**  
-- 💻 Developed the full application in C#  
+- 💻 Developed the full application
 - ✅ Committed to GitHub
 
 **Hector**  
-- 💻 Developed the full application in C#  
+- 💻 Developed the full application 
 - ✅ Committed to GitHub
 ---
 
