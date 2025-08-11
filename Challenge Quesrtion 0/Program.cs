@@ -1,4 +1,4 @@
-﻿namespace Challenge_Quesrtion_0
+﻿namespace Challenge_Question_0
 {
     internal class Program
     {
