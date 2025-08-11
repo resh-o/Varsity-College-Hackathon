@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int> { 5, 2, 9, 1, 5, 6, 3 };
+            List<int> numbers = new List<int> { 5, 2, 9, 1, 5, 6 };
             Console.WriteLine("Original List: " + numbers);
 
             SortList(numbers);
