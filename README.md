@@ -1,6 +1,9 @@
 # Hackathon
 ---
 
+## 🏁 Placement
+### First Place 1️⃣
+
 ## 👤 Tripod
 
 **Reshaan**  
